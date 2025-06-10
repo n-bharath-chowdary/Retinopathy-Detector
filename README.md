@@ -46,6 +46,14 @@ Data: Images + CSV with severity levels
 
 ---
 
+## Download the model:
+
+[Click here to download model](https://drive.google.com/file/d/1YsYagbGw1qrmyF5MOW_oOjiMwkGZ-cjp/view?usp=sharing)
+
+Place retinopathy_model.h5 in the project root folder.
+
+---
+
 ## 🚀 Getting Started
 ```bash 
 # Clone the repository
